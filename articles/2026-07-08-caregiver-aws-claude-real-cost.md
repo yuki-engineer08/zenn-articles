@@ -9,7 +9,7 @@ topics:
 published: true
 ---
 
-せっかくブログをやっているので、全部見せます。
+[前回の記事](/blog/2026-06-30-caregiver-honest-review-claude-code)でコストの内訳を次回書くと予告した。せっかくブログをやっているので、全部見せます。
 
 「AIって実際いくらかかるの？」
 
