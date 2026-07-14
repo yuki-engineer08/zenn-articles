@@ -199,6 +199,8 @@ Plannerに設計を任せている間、自分はSPEC.mdを磨くことに集中
 
 でも、このブログ自体がその証拠だと思う。
 
+このAIチームは、ブログだけでなく実際に介護現場で使うツールを作るときにも同じ体制で動かした。
+
 この時点では、まだブログは公開できていなかった。次に立ちはだかったのは、TerraformとGitHub Actionsによるデプロイパイプライン構築だった。
 
 次回は、そのインフラ構築の話を書く（[介護士がTerraform + GitHub Actions + OIDCでブログのCI/CDを構築した話](/blog/2026-06-25-caregiver-built-cicd-with-terraform)）。
