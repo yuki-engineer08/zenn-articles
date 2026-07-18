@@ -245,3 +245,5 @@ URLリライト用のJavaScriptファイルは存在していたが、`aws_cloud
 詰まった時間は無駄じゃなかった、と思うことにしている。
 
 こうしてブログの土台が整ったところで、次は実際にAWS上で動くサービスを作り始めた。その話は[介護士がAWSでAI事故報告支援ツールを作った話](/blog/2026-06-27-caregiver-built-ai-accident-report-tool)に書く。
+
+[crosspost-retry-20260718]: <https://zenn.dev/faq#rate-limit> "re-send trigger"

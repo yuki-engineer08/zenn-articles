@@ -121,3 +121,5 @@ AWSを学んだから作れたのではない。
 私はその可能性を、これからも形にしていきたい。
 
 正直、ここまで「Claude Codeがあれば介護士でも作れる」と書いてきたが、実際どこまで信じられるものなのか。その本音は次の記事に書いた。
+
+[crosspost-retry-20260718]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
