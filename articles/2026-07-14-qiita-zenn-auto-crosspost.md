@@ -222,3 +222,4 @@ QiitaはシンプルなREST API。ZennはGitHubリポジトリ連携。同じ「
 この自動化も、Planner・Generator・Evaluatorの3エージェント体制で組んだ。役割を分けて動かす開発スタイルは、ブログ本体を作ったときから変わっていない。
 
 [crosspost-retry-20260718]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
+[crosspost-retry-20260720]: <https://zenn.dev/faq#rate-limit> "re-send trigger"

@@ -135,3 +135,4 @@ AIが書いたコードを見て、「これで合ってる？」「ここおか
 「AIを使い始めたいけどコストが怖い」という人に、少しでも参考になれば嬉しい。
 
 [crosspost-retry-20260718]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
+[crosspost-retry-20260720]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
