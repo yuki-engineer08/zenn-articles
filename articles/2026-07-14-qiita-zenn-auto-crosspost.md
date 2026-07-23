@@ -223,3 +223,4 @@ QiitaはシンプルなREST API。ZennはGitHubリポジトリ連携。同じ「
 
 [crosspost-retry-20260718]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
 [crosspost-retry-20260720]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
+[crosspost-retry-20260723]: <https://zenn.dev/faq#rate-limit> "re-send trigger"
